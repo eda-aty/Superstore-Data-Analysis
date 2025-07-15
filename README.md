@@ -110,6 +110,5 @@ This project helps develop and showcase SQL skills using a realistic business sc
 
 ## 📎 Resources
 
-- [`/queries/sales_analysis_queries.sql`](queries/sales_analysis_queries.sql)  
-- Dataset: `data/superstore_dataset.csv` (from Kaggle)  
-- Dashboard screenshots in `/visuals/`  
+
+- Dataset:(https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) (from Kaggle)  
