@@ -81,7 +81,7 @@ This project helps develop and showcase SQL skills using a realistic business sc
 
 ## 📈 Dashboard
 
-- 🔗 [Looker Studio Dashboard](https://lookerstudio.google.com/s/rOovr7ZG6aU)  
+- 🔗 [Looker Studio Dashboard]([https://lookerstudio.google.com/s/rOovr7ZG6aU])  
 - 🔗 [Tableau Dashboard](https://public.tableau.com/views/SuperstoreSaleAnalysis_17394633843600/Dashboard6)
 
 ---
